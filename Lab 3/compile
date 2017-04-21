@@ -1,0 +1,4 @@
+gcc -o dfs DFS.c
+gcc -o bfs BFS.c
+gcc -o run aStar1.c
+gcc -o a_star_incons aStar2.c
